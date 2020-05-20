@@ -4644,6 +4644,10 @@ default = a
 						attrs: {
 							decimals: 2,
 							sections: [{
+                                                                time: "2020/05/20",
+                                                                title: "Microsoft Edge on iOS UI spoofing",
+                                                                url: "/2020/05/20/ms-edge-ios-spoofing"
+                                                        },{
 								time: "2017/09/06",
 								title: "Chrome M60 address bar spoofing",
 								url: "/2017/09/06/chrome-m60-address-bar-spoofing"
