@@ -5281,13 +5281,13 @@ default = c
 								target: "paypal.com"
 							}, {
 								color: "color-1",
-								desc: "Extension Page spoofing on chrome and firefox browser",
+								desc: "Extension Page html injection lead to XSS on chrome and firefox browser",
 								url: "https://evernote.com/security/report-issue/#2017",
 								vendor: "Evernote",
 								target: "browser extension"
 							}, {
 								color: "color-2",
-								desc: "Remote command execution via iframe and file://",
+								desc: "Remote command execution via iframe XSS",
 								url: "https://zhuanlan.zhihu.com/p/51768716",
 								vendor: "Typora",
 								target: "windows editor"
@@ -5326,30 +5326,6 @@ default = c
 								desc: "SS-2017-003 XSS in redirectorPage",
 								url: "https://www.silverstripe.org/download/security-releases/?start=0",
 								vendor: "Silverstripe",
-								target: "cms"
-							}, {
-								color: "color-3",
-								desc: "CVE-2017-5476 CSRF for the installation of any plugins",
-								url: "https://www.cvedetails.com/cve/CVE-2017-5476/",
-								vendor: "Serendipity",
-								target: "cms"
-							}, {
-								color: "color-7",
-								desc: "CVE-2017-8102 Stored XSS injection in v2.1-rc1",
-								url: "https://www.cvedetails.com/cve/CVE-2017-8102/",
-								vendor: "Serendipity",
-								target: "cms"
-							}, {
-								color: "color-1",
-								desc: "CVE-2017-8101 CSRF allowing attackers to install any themes",
-								url: "https://www.cvedetails.com/cve/CVE-2017-8101/",
-								vendor: "Serendipity",
-								target: "cms"
-							}, {
-								color: "color-5",
-								desc: "CVE-2017-8098 CSRF in plugin-installing and settings-changing",
-								url: "https://www.cvedetails.com/cve/CVE-2017-8098/",
-								vendor: "E107",
 								target: "cms"
 							}]
 						}
