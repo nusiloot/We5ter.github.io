@@ -5214,6 +5214,12 @@ default = c
 				default, {
 						attrs: {
 							sections: [{
+                                                                color: "color-9",
+                                                                desc: "CVE-2020-6536 Incorrect security UI in PWAs",
+                                                                url: "https://chromereleases.googleblog.com/search?updated-max=2020-07-15T10:09:00-07:00&max-results=7",
+                                                                vendor: "Google",
+                                                                target: "chrome"
+                                                        }, {
 								color: "color-6",
 								desc: "CVE-2019-8535 A memory corruption in webkit",
 								url: "https://support.apple.com/en-us/HT209599",
