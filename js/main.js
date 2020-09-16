@@ -5214,6 +5214,11 @@ default = c
 				default, {
 						attrs: {
 							sections: [{
+                                                                color: "color-2",
+                                                                desc: "Special Acknowledgment",
+                                                                url: "https://support.apple.com/en-us/HT210605",                                                                                               vendor: "Apple",
+                                                                target: "safari"
+                                                        },{
                                                                 color: "color-9",
                                                                 desc: "CVE-2020-6536 Incorrect security UI in PWAs",
                                                                 url: "https://chromereleases.googleblog.com/search?updated-max=2020-07-15T10:09:00-07:00&max-results=7",
