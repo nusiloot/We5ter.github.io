@@ -5214,6 +5214,12 @@ default = c
 				default, {
 						attrs: {
 							sections: [{
+										color: "color-9",
+										desc: "Safari14.0 Special Acknowledgment",
+										url: "https://support.apple.com/zh-cn/HT211845",   
+										vendor: "Apple",                                                                                            vendor: "Apple",
+										target: "safari"
+										},{
 										color: "color-2",
 										desc: "Safari13.0.1 Special Acknowledgment",
 										url: "https://support.apple.com/en-us/HT210605",   
