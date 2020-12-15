@@ -1,7 +1,7 @@
 {
   "default_applications": ["https://lightrains.org/images/poc/manifest.json"],
   "supported_origins": [
-    "https://bobpay.xyz",
-    "https://alicepay.friendsofalice.example"
+    "http://127.0.0.1" ,
+     "http://192.168.1.199" 
   ]
 }
