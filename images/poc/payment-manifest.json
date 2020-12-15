@@ -1,4 +1,3 @@
 {
-  "default_applications": ["https://lightrains.org/images/poc/manifest.json"],
-  "supported_origins": ["*"]
+  "default_applications": ["https://lightrains.org/images/poc/manifest.json"]
 }
