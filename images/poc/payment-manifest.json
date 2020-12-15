@@ -1,6 +1,7 @@
 {
-  "default_applications": ["./manifest.json"],
+  "default_applications": ["https://lightrains.org/images/poc/manifest.json"],
   "supported_origins": [
+    "https://bobpay.xyz",
     "https://alicepay.friendsofalice.example"
   ]
 }
